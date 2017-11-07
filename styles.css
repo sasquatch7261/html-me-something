@@ -6,7 +6,7 @@ div {
 }
 
 header {
-    text-align:center;
+    margin-left: 36.5%;
 }
 
 h3 {
@@ -16,7 +16,9 @@ h3 {
 img {
     width: 400px;
     height: 300px;
-    padding-left: 32%;
+    margin-left: 32%;
+    margin-top: 15px;
+    border: 1px solid black;
 }
 
 p {
@@ -37,4 +39,8 @@ p {
 
 #moment{
     color: red;
+}
+
+li {
+    padding-bottom: 15px;
 }
