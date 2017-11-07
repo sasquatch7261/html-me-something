@@ -1,0 +1,40 @@
+div {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(192, 192, 192);
+    border: 1px solid black;
+}
+
+header {
+    text-align:center;
+}
+
+h3 {
+    padding-left: 15px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    padding-left: 32%;
+}
+
+p {
+    text-align: center;
+}
+
+.favorite {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.place{
+    color:green;
+}
+
+.food{
+    color: white;
+}
+
+#moment{
+    color: red;
+}
